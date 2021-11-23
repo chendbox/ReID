@@ -1,4 +1,4 @@
-# ReID Person re-identification
+# ReID Person Re-identification
 ReID pedestrian 
 
 # problem statement
