@@ -18,7 +18,7 @@ In this project, we are targeting a small network MobileNetV2 on small image dat
 | Readme| Read me including details on this project |
 | notebook | all-in-one jupyter notebook including details of ReID |
 
-* due to the 25MB file loading rule, I can't upload the whole images. Feel free to contact me if interested. chendbox@mgail.com
+* Due to the 25MB file loading size rule, I can't upload the whole images. Feel free to contact me if interested: chendbox@gmail.com
 
 # Workflow
 
