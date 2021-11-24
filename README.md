@@ -13,7 +13,7 @@ In this project, we are targeting a small network MobileNetV2 on small image dat
 
 | files | description |
 | ---| --- |
-| Images | Marketing data from JulyEDU on capturing persons images (few) |
+| Images | Market1501 classic images for ReID (few) |
 | Readme| Read me including details on this project |
 | notebook | all-in-one jupyter notebook including details of ReID |
 | photos | the ReID reviews in smart city concepts |
