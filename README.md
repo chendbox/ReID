@@ -4,21 +4,21 @@
 
 Nowadays China spends millions of dollars to create smart city, which based on SkyNet project, the most created video secrity system in most cities. The goal is to build security and safety environments and prompt the stable development of Chinese economy. Person re-identification is not new to data scientist, software engineer, but to create high accuracy and reliable identification algorthims to predict the correct identities must be considered. 
 
-We have cameras around cities, parks, shopping malls, airports and communities. Each person could be captured by several cameras at the same time. However, there are always blank spots since it's impossible to set up cameras everywhere due to the costs. Also the camera angles for capturing images are not always ideal for every pedestrians. The images captured by cameras must be identified and analyzed to have business values. But we often captures no face, backs, lean down, and change fits persons. We can't guarantee to catch every single movement of a person without interruption. If a person walks from home to shopping mall, he would be captured by several cameras and tracking his routes. He could take off his yellow coat in shopping mall and carry new bought backpack and sit on bench to rest. So do the camera recognize the same person as two different ones? or same one. State-of-art methods have been proposed based on deep nerual network. 
+In modern world, cameras are installed around cities, parks, shopping malls, airports and communities. Each person could be captured by several cameras at the same time. However, there are always blank spots since it's impossible to set up cameras everywhere due to the costs. Camera is not able to capture all ideal images for every pedestrians. We often capture no face, backs, lean down, and change fits persons. We can't guarantee to catch every single movement of a person without interruption. If a person walks from home to shopping mall, he would be captured by several cameras, which are tracking his routes. He could take off his yellow coat in shopping mall, could put on a backpack and could sit on bench to rest. (no face, posture changes, angle changes, wearable changes, also angle, lights, day/night changes). So do the camera still recognize this person?  In addition, the images resoluiton are usually low, makes it hard to identify the person. So, State-of-art methods have been proposed, which helps to recongize people under complex environment.
 
-In this project, we are targeting a small network MobileNetV2 on small image datasets and trying to build an identification process on pediatricians and validating the models by learning rate decay, label smoothing, batch normalization, data generator, similarity analysis, etc. 
+In this project, I'm targeting a small network MobileNetV2 on small image datasets and trying to build an identification process on pediatricians and validating the models by learning rate decay, label smoothing, batch normalization, data generator, similarity analysis, etc. 
 
 
 # Contents
 
 | files | description |
 | ---| --- |
-| Images | Market1501 classic images for ReID (few) |
+| Images | Market1501 classic images for ReID (few) Gallery |
 | Readme| Read me including details on this project |
 | notebook | all-in-one jupyter notebook including details of ReID |
 | photos | the ReID reviews in smart city concepts |
 
-* Due to the 25MB file loading size rule, I can't upload the whole images. Feel free to contact me if interested: chendbox@gmail.com
+* Due to the 25MB file loading size rule, I can't upload every image. Feel free to contact me if interested: chendbox@gmail.com
 
 # Workflow
 
